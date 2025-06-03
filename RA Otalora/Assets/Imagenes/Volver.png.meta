@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2b80d9e969b8d294aaa9b3686eef0735
+guid: c033bc7fd82d2af4e902bc1b49078f9c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -173,12 +173,56 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Volver_normal
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 490
+        width: 411
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0339f00be4b7c845b0c07e0cd0e003b
+      internalID: 1688871360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volver_press
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 90
+        width: 411
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad9be14801fdcd4c842b7557225123b
+      internalID: 1965129120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 850f43a7386b60540853a1f68e173960
     internalID: 0
     vertices: []
     indices: 
@@ -187,7 +231,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Volver_normal: 1688871360
+      Volver_press: 1965129120
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
